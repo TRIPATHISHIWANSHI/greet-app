@@ -3,13 +3,16 @@
 
 The Greet App is a simple React application that allows users to enter their first and last names and get a personalized greeting message. This README provides an overview of the application's structure and functionality.
 
-![Greet App Screenshot](./screenshot.png)
+<img width="929" alt="image" src="https://github.com/TRIPATHISHIWANSHI/greet-app/assets/112747153/461b14c9-a3e1-4f4c-99c8-537ad55464fc">
+
+
 
 ## Table of Contents
 
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
+- [Live Demo](#live-demo)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -28,3 +31,12 @@ To get started with the Greet App, follow these steps:
 
    ```bash
    git clone https://github.com/TRIPATHISHIWANSHI/greet-app.git
+
+
+
+
+## Live Demo
+You can try the Greet App live by visiting the following URL:https://tripathishiwanshi.github.io/greet-app/
+
+## Contributing
+Contributions are welcome! If you have any ideas, improvements, or bug fixes, feel free to open an issue or create a pull request. 
